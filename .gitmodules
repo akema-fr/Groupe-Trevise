@@ -1,0 +1,3 @@
+[submodule "src/logo"]
+	path = src/logo
+	url = git@github.com:akema-fr/logo-groupe-trevise.git
